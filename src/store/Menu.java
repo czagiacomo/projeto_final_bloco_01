@@ -39,7 +39,7 @@ public class Menu {
 				if (optionAdm == 0) {
 					System.out.println("Saindo da Loja...");
 					scan.close();
-					System.exit(0);
+					System.exit(0);  
 				}
 
 				switch (optionAdm) {
